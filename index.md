@@ -6,9 +6,9 @@
  that prides itself on hunting monsters is hunted by one.
  
 ## PYKEs traits:
-	*fatal
-	*communist
-	*bad ass motherfucker
-	*assasin
-	*support xD
-	*League of Legends Champion
+	* fatal
+	* communist
+	* bad ass motherfucker
+	* assasin
+	* support xD
+	* League of Legends Champion
