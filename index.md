@@ -4,3 +4,11 @@
  but he returned stalking Bilgewater, using his supernatural
  gifts to bring an end to those who exploit others—and a city
  that prides itself on hunting monsters is hunted by one.
+ 
+## PYKEs traits:
+	* fatal
+	* communist
+	* bad ass motherfucker
+	* assasin
+	* support xD
+	* League of Legends Champion
