@@ -12,3 +12,5 @@
 	* assasin
 	* support xD
 	* League of Legends Champion
+
+> There’s plenty of room for everyone at the bottom of the sea...
